@@ -1,4 +1,4 @@
-import Course, { terms, getCourseTerm} from './Course.js';
+import Course, { terms, getCourseTerm } from './Course.js';
 import React, { useState } from 'react';
 
 // add filter by term
