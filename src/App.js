@@ -33,7 +33,9 @@ const schedule = {
 // define the banner
 const Banner = ({ title }) => (
   <div className="Website-title">
-    <h1>{ title }</h1>
+    <p><img src="https://i.loli.net/2021/10/04/qLZ6Pgl8RUcD2hO.png" /></p>
+    <p><h1> McCORMICK SCHOOL OF ENGINEERING </h1></p>
+    <p><h1>{ title }</h1></p>
   </div>
 );
 
